@@ -1,6 +1,7 @@
-# [ISBI'26] FROM SPECIALIST TO GENERALIST: UNLOCKING SAM’S LEARNING POTENTIAL ON UNLABELED MEDICAL IMAGES
+# [ISBI'26] From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images
 
-![Framework](<img width="1338" height="698" alt="image" src="https://github.com/user-attachments/assets/8b5b23b2-1f55-4216-8f0c-0cb17e3d41ef" />)
+<img width="1338" height="698" alt="image" src="https://github.com/user-attachments/assets/4bbb78f9-9472-48da-bea3-25a2feb1c762" />
+
 
 ## Setup
 
