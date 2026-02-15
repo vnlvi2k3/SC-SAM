@@ -29,6 +29,8 @@ python run.py
 
 ## Test
 
+Update the pretrained paths of SAM and Unet `run.py` then run:
+
 ```bash
 python run.py --mode test
 ```
